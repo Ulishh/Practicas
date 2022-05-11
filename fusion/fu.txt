@@ -1,0 +1,2 @@
+Estoy tratando de fusionar 2 ramas con merge, pero todavia no pongo merge y parece que ya estan vinculadas las dos ramas
+
